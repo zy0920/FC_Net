@@ -1,4 +1,4 @@
-# poto.res101.fpn.coco.800size.3x_ms  
+# poto.res101.fpn.coco.800size.3x_ms.fcnet  
 
 seed: 35050266
 
