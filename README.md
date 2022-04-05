@@ -36,8 +36,8 @@ ln -s /path/to/your/coco/dataset coco
 
 * Train & Test
 ```shell
-git clone https://github.com/Megvii-BaseDetection/DeFCN.git
-cd DeFCN/playground/detection/coco/poto.res50.fpn.coco.800size.3x_ms  # for example
+git clone https://github.com/zy0920/FC_Net.git
+cd DeFCN/playground/detection/coco/poto.res101.fpn.coco.800size.3x_ms0403  # for example
 
 # Train
 pods_train --num-gpus 8
