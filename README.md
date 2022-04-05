@@ -31,7 +31,7 @@ python3 setup.py build develop
 ```shell
 cd /path/to/cvpods
 cd datasets
-ln -s /path/to/your/coco/dataset coco
+ln -s /path/to/your/dataset
 ```
 
 * Train & Test
