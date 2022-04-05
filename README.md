@@ -54,8 +54,8 @@ pods_train --num-gpus 8 --num-machines N --machine-rank 0/1/.../N-1 --dist-url "
 ```
 
 ## Acknowledgement
-This repo is developed based on cvpods. Please check [cvpods](https://github.com/Megvii-BaseDetection/cvpods) for more details and features.
 This repo is developed based on DeFCN. Please check [DeFCN](https://github.com/Megvii-BaseDetection/DeFCN) for more details and features.
+
 ## License
 This repo is released under the Apache 2.0 license. Please see the LICENSE file for more information.
 
