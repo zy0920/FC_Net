@@ -62,7 +62,7 @@ This repo is released under the Apache 2.0 license. Please see the LICENSE file 
 ## Citing
 If you use this work in your research or wish to refer to the baseline results published here, please use the following BibTeX entries:
 ```
-@article{wang2020end,
+@article{Zhangyang2022end,
   title   =  {FC_Net from Zhangyang},
   author  =  {Zhang, Yang},
   journal =  {},
