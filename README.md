@@ -1,6 +1,6 @@
 # FC_Net
 
-![GitHub](https://github.com/zy0920/FC_Net)
+[GitHub](https://github.com/zy0920/FC_Net)
 
 This project provides an implementation for "[基于DeFCN的贝类目标检测方法研究]" on PyTorch.
 
