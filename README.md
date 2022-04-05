@@ -2,7 +2,7 @@
 
 [GitHub](https://github.com/zy0920/FC_Net)
 
-This project provides an implementation for "[基于DeFCN的贝类目标检测方法研究]" on PyTorch.
+This project provides an implementation for "FC_Net" on PyTorch.
 
 Experiments in the paper were conducted on the internal framework, thus we reimplement them on [cvpods](https://github.com/Megvii-BaseDetection/cvpods) and report details as below.
 
@@ -63,7 +63,7 @@ This repo is released under the Apache 2.0 license. Please see the LICENSE file 
 If you use this work in your research or wish to refer to the baseline results published here, please use the following BibTeX entries:
 ```
 @article{wang2020end,
-  title   =  {基于DeFCN的贝类目标检测方法研究},
+  title   =  {FC_Net from Zhangyang},
   author  =  {Zhang, Yang},
   journal =  {},
   year    =  {2022}
