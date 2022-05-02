@@ -7,8 +7,9 @@ This project provides an implementation for "FC_Net" on PyTorch.
 Experiments in the paper were conducted on the internal framework, thus we reimplement them on [cvpods](https://github.com/Megvii-BaseDetection/cvpods) and report details as below.
 
 ![](./pipeline.png)
+![%2_$ U{WUA CVP(}H`9G%0R](https://user-images.githubusercontent.com/102900203/166199452-1dcbd0e6-a268-42c7-9c9c-e8450b2f6a88.png)
 
-## Requirements
+＃＃ 要求
 * [cvpods](https://github.com/Megvii-BaseDetection/cvpods)
 * scipy >= 1.5.4
 
