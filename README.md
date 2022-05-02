@@ -6,8 +6,18 @@ This project provides an implementation for "FC_Net" on PyTorch.
 
 Experiments in the paper were conducted on the internal framework, thus we reimplement them on [cvpods](https://github.com/Megvii-BaseDetection/cvpods) and report details as below.
 
-![](./pipeline.png)
+＃＃ 原创数据集
 ![%2_$ U{WUA CVP(}H`9G%0R](https://user-images.githubusercontent.com/102900203/166199452-1dcbd0e6-a268-42c7-9c9c-e8450b2f6a88.png)
+![图5](https://user-images.githubusercontent.com/102900203/166203478-900a4f2e-e92e-4f35-a517-0ee12d7f0528.png)
+![图6](https://user-images.githubusercontent.com/102900203/166203493-2a7c4956-4ee8-4a50-ac97-c6bdce079932.png)
+![图7](https://user-images.githubusercontent.com/102900203/166203446-cfabc365-641c-477e-90f1-d37dee058cdc.png)
+
+＃＃ 实验结果
+![图10](https://user-images.githubusercontent.com/102900203/166203568-b36ea005-a0a5-4f18-9bbb-b549be5fc3e1.png)
+![图11](https://user-images.githubusercontent.com/102900203/166203579-1b8c8c98-d911-45b3-99f2-d77d7396a79d.png)
+
+＃＃ 技术路线图
+![图1](https://user-images.githubusercontent.com/102900203/166203671-9b62124a-5b25-4d21-8f2a-a69b28a4c43f.png)
 
 ＃＃ 要求
 * [cvpods](https://github.com/Megvii-BaseDetection/cvpods)
